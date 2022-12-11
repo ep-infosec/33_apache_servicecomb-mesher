@@ -1,0 +1,4 @@
+servicecomb:
+  service:
+    name: mesher-edge
+    version: 1.7.0
